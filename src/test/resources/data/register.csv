@@ -1,0 +1,2 @@
+username,email,password,name,language,accept,verifyusername,verifyemail,verifypassword,verifyname,verifylanguage,verifyaccept
+abc,abc@163.com,123456,阿菠菜,Java,Yes,abc,abc@163.com,123456,阿菠菜,Java,true

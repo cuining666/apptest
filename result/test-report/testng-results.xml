@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27427" started-at="2021-04-02T15:09:18Z" finished-at="2021-04-02T15:09:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27427" started-at="2021-04-02T15:09:18Z" finished-at="2021-04-02T15:09:46Z">
+      <class name="com.cn.testScripts.TestRegister">
+        <test-method status="PASS" signature="startTest(org.testng.ITestContext)[pri:0, instance:com.cn.testScripts.TestRegister@dd3f8aa]" name="startTest" is-config="true" duration-ms="9616" started-at="2021-04-02T15:09:18Z" finished-at="2021-04-02T15:09:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2ee92e7d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="testRegistSuccess(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.cn.testScripts.TestRegister@dd3f8aa]" name="testRegistSuccess" duration-ms="17596" started-at="2021-04-02T15:09:28Z" data-provider="RegisterData" finished-at="2021-04-02T15:09:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc@163.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[阿菠菜]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Yes]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[abc@163.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[阿菠菜]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegistSuccess -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.cn.testScripts.TestRegister@dd3f8aa]" name="endTest" is-config="true" duration-ms="202" started-at="2021-04-02T15:09:46Z" finished-at="2021-04-02T15:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.cn.testScripts.TestRegister -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
